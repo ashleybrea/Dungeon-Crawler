@@ -13,7 +13,7 @@ The game board consists of different players:
 ## How to Clone This Repository
 -> To run this code, first ensure you have cloned the repository as such:
    ```bash
-   git clone https://gitfront.io/r/abrea/wSBmWGN8Zhb/Dungeon-Crawler.git
+   git clone https://gitfront.io/r/abrea/xHoS2NorFh6a/Dungeon-Crawler.git
    ```
 
 ## How to Run from an IDE
